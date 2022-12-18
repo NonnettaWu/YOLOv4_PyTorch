@@ -1,5 +1,7 @@
 ## YOLOv4_PyTorch
 
+Similar to YOLOv3.
+
 With Google Colab providing a plant for training, the repository was creted to use `YOLOv4` model to detect objects. The most codes are copied from `Bubbliiiing`. 
 
 His repository: https://github.com/bubbliiiing
